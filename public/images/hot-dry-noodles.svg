@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 260">
+  <ellipse cx="160" cy="224" rx="98" ry="18" fill="#6b3b24" opacity="0.14"/>
+  <path d="M218 38 244 171" fill="none" stroke="#5f3914" stroke-linecap="round" stroke-width="9"/>
+  <path d="M238 34 264 167" fill="none" stroke="#8a5a22" stroke-linecap="round" stroke-width="7"/>
+  <path d="M84 112 C92 162 116 203 160 205 C204 203 228 162 236 112 Z" fill="#d95f3f" stroke="#5f3914" stroke-linejoin="round" stroke-width="7"/>
+  <path d="M94 150 C122 174 198 174 226 150 C218 183 198 205 160 206 C122 205 102 183 94 150 Z" fill="#a63a2a" opacity="0.55"/>
+  <ellipse cx="160" cy="111" rx="82" ry="28" fill="#faf0d5" stroke="#5f3914" stroke-width="7"/>
+  <g fill="none" stroke-linecap="round">
+    <path d="M93 107 C118 78 137 130 165 95 C191 63 203 125 230 95" stroke="#d89a2b" stroke-width="13"/>
+    <path d="M100 113 C128 88 141 135 170 103 C195 76 207 133 226 106" stroke="#f0bd4d" stroke-width="10"/>
+    <path d="M105 100 C132 78 149 124 176 91 C198 64 209 118 222 99" stroke="#8b5a1d" stroke-width="5" opacity="0.45"/>
+  </g>
+  <g fill="#fff6dd" stroke="#5f3914" stroke-width="4">
+    <circle cx="139" cy="118" r="7"/><circle cx="184" cy="118" r="7"/>
+  </g>
+  <circle cx="141" cy="120" r="2.5" fill="#5f3914"/><circle cx="182" cy="120" r="2.5" fill="#5f3914"/>
+  <path d="M151 134 Q160 142 171 134" fill="none" stroke="#5f3914" stroke-linecap="round" stroke-width="4"/>
+  <g fill="#5f9b52" stroke="#2d6a37" stroke-width="2">
+    <circle cx="107" cy="97" r="5"/><circle cx="121" cy="91" r="4"/><circle cx="211" cy="94" r="5"/><circle cx="198" cy="87" r="4"/>
+  </g>
+  <path d="M125 42 C111 54 134 62 119 76" fill="none" stroke="#9b8d78" stroke-linecap="round" stroke-width="6" opacity="0.65"/>
+  <path d="M162 27 C145 42 174 50 155 67" fill="none" stroke="#9b8d78" stroke-linecap="round" stroke-width="6" opacity="0.65"/>
+  <path d="M200 44 C185 57 210 64 194 80" fill="none" stroke="#9b8d78" stroke-linecap="round" stroke-width="6" opacity="0.65"/>
+</svg>
