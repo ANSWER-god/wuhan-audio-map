@@ -1,0 +1,68 @@
+{
+  "generatedAt": "2026-11-11T10:19:23.417Z",
+  "clips": [
+    {
+      "id": "static-汉阳区-武汉话访谈第三期-走进老社区.mp4",
+      "district": "汉阳区",
+      "place": null,
+      "name": "武汉话访谈第三期-走进老社区",
+      "url": "media/%E6%B1%89%E9%98%B3%E5%8C%BA/%E6%AD%A6%E6%B1%89%E8%AF%9D%E8%AE%BF%E8%B0%88%E7%AC%AC%E4%B8%89%E6%9C%9F-%E8%B5%B0%E8%BF%9B%E8%80%81%E7%A4%BE%E5%8C%BA.mp4",
+      "size": 35272755,
+      "mediaType": "video"
+    },
+    {
+      "id": "static-洪山区-光谷-光谷.jpg",
+      "district": "洪山区",
+      "place": "光谷",
+      "name": "光谷",
+      "url": "media/%E6%B4%AA%E5%B1%B1%E5%8C%BA/%E5%85%89%E8%B0%B7/%E5%85%89%E8%B0%B7.jpg",
+      "size": 1596532,
+      "mediaType": "image"
+    },
+    {
+      "id": "static-江岸区-一元路-一元路.mp4",
+      "district": "江岸区",
+      "place": "一元路",
+      "name": "一元路",
+      "url": "media/%E6%B1%9F%E5%B2%B8%E5%8C%BA/%E4%B8%80%E5%85%83%E8%B7%AF/%E4%B8%80%E5%85%83%E8%B7%AF.mp4",
+      "size": 46713607,
+      "mediaType": "video"
+    },
+    {
+      "id": "static-江汉区-武汉话访谈-走进老社区之温暖对话.mp4",
+      "district": "江汉区",
+      "place": null,
+      "name": "武汉话访谈-走进老社区之温暖对话",
+      "url": "media/%E6%B1%9F%E6%B1%89%E5%8C%BA/%E6%AD%A6%E6%B1%89%E8%AF%9D%E8%AE%BF%E8%B0%88-%E8%B5%B0%E8%BF%9B%E8%80%81%E7%A4%BE%E5%8C%BA%E4%B9%8B%E6%B8%A9%E6%9A%96%E5%AF%B9%E8%AF%9D.mp4",
+      "size": 20150909,
+      "mediaType": "video"
+    },
+    {
+      "id": "static-硚口区-汉正街-汉正街.mp4",
+      "district": "硚口区",
+      "place": "汉正街",
+      "name": "汉正街",
+      "url": "media/%E7%A1%9A%E5%8F%A3%E5%8C%BA/%E6%B1%89%E6%AD%A3%E8%A1%97/%E6%B1%89%E6%AD%A3%E8%A1%97.mp4",
+      "size": 25121221,
+      "mediaType": "video"
+    },
+    {
+      "id": "static-青山区-红钢城-红钢城红砖房.jpg",
+      "district": "青山区",
+      "place": "红钢城",
+      "name": "红钢城红砖房",
+      "url": "media/%E9%9D%92%E5%B1%B1%E5%8C%BA/%E7%BA%A2%E9%92%A2%E5%9F%8E/%E7%BA%A2%E9%92%A2%E5%9F%8E%E7%BA%A2%E7%A0%96%E6%88%BF.jpg",
+      "size": 1917602,
+      "mediaType": "image"
+    },
+    {
+      "id": "static-武昌区-昙华林-昙华林.mp4",
+      "district": "武昌区",
+      "place": "昙华林",
+      "name": "昙华林",
+      "url": "media/%E6%AD%A6%E6%98%8C%E5%8C%BA/%E6%98%99%E5%8D%8E%E6%9E%97/%E6%98%99%E5%8D%8E%E6%9E%97.mp4",
+      "size": 79856406,
+      "mediaType": "video"
+    }
+  ]
+}
